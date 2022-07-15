@@ -23,7 +23,7 @@
 <img src="./HousePricePredictionProject.ipynb - Colaboratory - Google Chrome 7_15_2022 11_04_08 PM.png" width="700" height="400">
 <video width="320" height="240" controls>
   <source src="./housePricePrediction.mp4" type="video/mp4">
-
+Video: 
 </video>
 <a href="https://colab.research.google.com/drive/1TKS_bi8B60HYnrG1SN8H-C6X-jDovK2E#scrollTo=1WImKr80kduh">Colablink</a>
 <a href="http://lib.stat.cmu.edu/datasets/boston">Dataset</a>
