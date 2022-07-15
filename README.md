@@ -20,7 +20,7 @@
 <li>XG Boost Regressor</li>
 <li>Evaluation</li>
 </ol>
-<img src="./HousePricePredictionProject.ipynb - Colaboratory - Google Chrome 7_15_2022 11_04_08 PM.png" width="400" height="300">
+<img src="./HousePricePredictionProject.ipynb - Colaboratory - Google Chrome 7_15_2022 11_04_08 PM.png" width="700" height="400">
 <video width="320" height="240" controls>
   <source src="./housePricePrediction.mp4" type="video/mp4">
 
